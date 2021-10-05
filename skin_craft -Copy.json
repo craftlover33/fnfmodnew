@@ -4,8 +4,8 @@
     {
       "status_app":"0",
       "link_redirect":"http://",
-      "select_ads":"ADMOB",
-      "select_backup_ads":"IRON",
+      "select_ads":"IRON",
+      "select_backup_ads":"ADMOB",
       "backup_mode":"1",
       "admob_openid":"ca-app-pub-1436823100970835~7761898112",
       "admob_nativeid":"ca-app-pub-1436823100970835/1639628300",
